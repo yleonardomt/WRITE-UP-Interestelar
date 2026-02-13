@@ -6,7 +6,7 @@
 
 **Challenge by:** phuonganh1233  
 **Date Completed:** February 13, 2026  
-**Flag:** `HTB{P3rtf3ct_c0mb1nation_t0_re4ch_th3_g4l4xY}`
+**Flag:** `HTB{P3rtf3ct_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX_g4l4xY}`
 
 ---
 
