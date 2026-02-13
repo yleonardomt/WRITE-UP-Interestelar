@@ -358,7 +358,6 @@ This was an excellent challenge that required understanding multiple vulnerabili
 **Key Takeaway:** In penetration testing, the most critical vulnerabilities often result from chaining multiple smaller issues together. Always look for the complete attack chain!
 
 ---
-
-**Pwned by:** YH0N4T4NR00T  
+ 
 **Date:** February 13, 2026  
 **Challenge Rating:** ⭐⭐⭐⭐☆
